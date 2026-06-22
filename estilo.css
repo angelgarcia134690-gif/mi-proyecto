@@ -50,7 +50,7 @@ PRESENTACION
 -------------------------------------*/ 
 .presentacion{
   /*background: pink;*/
-  background: radial-gradient(400px at 60% 10%, #C3F9C4, blue);
+  background: radial-gradient(400px at 60% 10%, #C3F9C4, #35EC32);
   overflow: hidden;
   border-bottom: 3px solid #044e8b; 
 }  
